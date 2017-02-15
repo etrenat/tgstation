@@ -9,6 +9,7 @@
 ###############################################################################################
 Optimumtact = Host
 kingofkosmos = Game Master
+Etrenat = Game Master
 MrStonedOne = Game Master
 microscopics = Game Master
 Gun Hog = Game Master
